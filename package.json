@@ -2,7 +2,6 @@
   "home": "https://BiniyamTafesselemu.github.io/Space-tourism-multi-page-website/",
   "description": "A multi-page website for space tourism, built with React and Vite.",
   "author": "Biniyam Tafesse",
-  "license": "MIT",
   "name": "spaceturism",
   "private": true,
   "version": "0.0.0",

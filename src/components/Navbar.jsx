@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <StyledNavBar>
       <Logo to="/home">
-        <img src="/images/shared/logo.svg" alt="Logo" />
+        <img src="/logo.svg" alt="Logo" />
       </Logo>
 
       <Line></Line>
@@ -75,7 +75,6 @@ const Navigation = styled.nav.withConfig({
   backdrop-filter: blur(10px);
   transition: all 0.3s ease;
   z-index: 100;
-  margin-top: -38px;
   margin-right: -2rem;
 
   &.open {
